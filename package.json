@@ -18,6 +18,6 @@
   "homepage": "https://github.com/alex-singer/advent-of-code-2017#readme",
   "dependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.2.0"
+    "mocha": "^10.2.0"
   }
 }
